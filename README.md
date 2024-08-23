@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C,Node.jk,c++,Java**
 
-💬 Ask me about **Node.js, c or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, c or anything [here]((https://discord.gg/dy9rtj3ADG))**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 

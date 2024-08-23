@@ -4,7 +4,7 @@
     <img src="https://media.discordapp.net/attachments/1273583784675115011/1276599289170362451/pinterestdownloader.com-1724434676.859066.gif?ex=66ca1d3c&is=66c8cbbc&hm=46dbc29bf0ddcb3d10d8e7bd57d5e2bcabaa71bf1d4b65187719b6b6e53083aa&=" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Fuck all that shit, I'm Owen</h3>
 
 <br/>
 
@@ -12,27 +12,27 @@
  
  🔭 I’m currently Pooler in **1337**
  
- 🌱 I’m currently learning **C,Node.jk,c++,Java**
+ 🌱 I’m currently learning **C, Node.js, C++, Java**
 
-💬 Ask me about **Node.js, c or anything [here]((https://discord.gg/dy9rtj3ADG))**
+💬 Ask me about **Node.js, C, or anything [here](https://discord.gg/dy9rtj3ADG)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -56,7 +56,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -74,3 +74,4 @@
 </div>
 
 <br/>
+

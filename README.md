@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://cdn.discordapp.com/attachments/1273583784675115011/1276573657761841265/89397268ebee8f214d9f67be6516d3f0.gif?ex=66ca055d&is=66c8b3dd&hm=44af960d4e88edfa010f951b549418c90d5185063c451b77f5ee45f3ce874a5f" />
+    <img src="https://media.discordapp.net/attachments/1273583784675115011/1276599289170362451/pinterestdownloader.com-1724434676.859066.gif?ex=66ca1d3c&is=66c8cbbc&hm=46dbc29bf0ddcb3d10d8e7bd57d5e2bcabaa71bf1d4b65187719b6b6e53083aa&=" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>

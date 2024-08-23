@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="[[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;](https://www.pinterest.com/pin/2603712280096139/)](https://media.discordapp.net/attachments/1273583784675115011/1276573657761841265/89397268ebee8f214d9f67be6516d3f0.gif?ex=66ca055d&is=66c8b3dd&hm=44af960d4e88edfa010f951b549418c90d5185063c451b77f5ee45f3ce874a5f&=)" />
+    <img src="https://cdn.discordapp.com/attachments/1273583784675115011/1276573657761841265/89397268ebee8f214d9f67be6516d3f0.gif?ex=66ca055d&is=66c8b3dd&hm=44af960d4e88edfa010f951b549418c90d5185063c451b77f5ee45f3ce874a5f" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>

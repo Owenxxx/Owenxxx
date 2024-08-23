@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, C, or anything [here](https://discord.gg/dy9rtj3ADG)**
 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡  **You don't know what I've been through**
 
 </div>
  

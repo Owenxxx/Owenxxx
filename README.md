@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently Pooler in **1337**
+ 🔭 I’m currently Student in **1337**
  
  🌱 I’m currently learning **C, Node.js, C++, Java**
 
